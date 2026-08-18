@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 700" role="img" aria-labelledby="title desc">
+  <title id="title">Preliminary Textiles and Design course map for narrow screens</title>
+  <desc id="desc">Three stacked areas of study connect Design to ideas and folio evidence, Properties and Performance to tests and choices, and ATCFAI to industry and value.</desc>
+  <rect width="420" height="700" rx="28" fill="#f6efe5"/>
+  <path d="M54 75v550" stroke="#ded4ca" stroke-width="10" stroke-linecap="round"/>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(30 35)">
+      <circle cx="24" cy="75" r="20" fill="#a84d3f"/><rect x="62" y="0" width="318" height="150" rx="20" fill="#fff" stroke="#a84d3f" stroke-width="4"/>
+      <text x="86" y="48" fill="#863b31" font-size="24" font-weight="700">DESIGN</text>
+      <text x="86" y="82" fill="#293946" font-size="18">Develop and communicate ideas</text>
+      <text x="86" y="116" fill="#162431" font-size="18" font-weight="700">Evidence: ideas + folio</text>
+    </g>
+    <g transform="translate(30 275)">
+      <circle cx="24" cy="75" r="20" fill="#163b55"/><rect x="62" y="0" width="318" height="150" rx="20" fill="#fff" stroke="#163b55" stroke-width="4"/>
+      <text x="86" y="44" fill="#163b55" font-size="22" font-weight="700">PROPERTIES +</text><text x="86" y="72" fill="#163b55" font-size="22" font-weight="700">PERFORMANCE</text>
+      <text x="86" y="103" fill="#293946" font-size="17">Connect structure to behaviour</text>
+      <text x="86" y="132" fill="#162431" font-size="18" font-weight="700">Evidence: tests + choices</text>
+    </g>
+    <g transform="translate(30 515)">
+      <circle cx="24" cy="75" r="20" fill="#a17a2d"/><rect x="62" y="0" width="318" height="150" rx="20" fill="#fff" stroke="#a17a2d" stroke-width="4"/>
+      <text x="86" y="48" fill="#70541e" font-size="24" font-weight="700">ATCFAI</text>
+      <text x="86" y="82" fill="#293946" font-size="18">Connect textiles with society</text>
+      <text x="86" y="116" fill="#162431" font-size="18" font-weight="700">Evidence: industry + value</text>
+    </g>
+  </g>
+</svg>

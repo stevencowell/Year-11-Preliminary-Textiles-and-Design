@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Four elements of textile design for narrow screens</title>
+  <desc id="desc">Four stacked panels show line and direction leading the eye, shape and size defining form and scale, texture creating a visual or tactile surface, and colour and value using hue and light or dark relationships.</desc>
+  <rect width="420" height="1200" rx="28" fill="#f6efe5"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#162431">
+    <g transform="translate(30 30)"><rect width="360" height="250" rx="20" fill="#fff" stroke="#ded4ca"/><path d="M70 72h220M70 108l220 78" stroke="#a84d3f" stroke-width="12"/><text x="180" y="48" font-size="23" font-weight="700">LINE + DIRECTION</text><text x="180" y="232" font-size="18">Leads the eye through a design</text></g>
+    <g transform="translate(30 320)"><rect width="360" height="250" rx="20" fill="#fff" stroke="#ded4ca"/><circle cx="130" cy="120" r="48" fill="#163b55"/><rect x="194" y="72" width="86" height="128" rx="10" fill="#a17a2d"/><text x="180" y="48" font-size="23" font-weight="700">SHAPE + SIZE</text><text x="180" y="232" font-size="18">Defines form, scale and relationships</text></g>
+    <g transform="translate(30 610)"><rect width="360" height="250" rx="20" fill="#fff" stroke="#ded4ca"/><path d="M60 92q45-32 90 0t90 0 60 0M60 132q45-32 90 0t90 0 60 0M60 172q45-32 90 0t90 0 60 0" fill="none" stroke="#55705f" stroke-width="10"/><text x="180" y="48" font-size="23" font-weight="700">TEXTURE</text><text x="180" y="232" font-size="18">Creates a visual or tactile surface</text></g>
+    <g transform="translate(30 900)"><rect width="360" height="250" rx="20" fill="#fff" stroke="#ded4ca"/><rect x="70" y="70" width="220" height="30" fill="#f1c66f"/><rect x="70" y="100" width="220" height="30" fill="#d98b58"/><rect x="70" y="130" width="220" height="30" fill="#a84d3f"/><rect x="70" y="160" width="220" height="30" fill="#5a2935"/><text x="180" y="48" font-size="23" font-weight="700">COLOUR + VALUE</text><text x="180" y="232" font-size="18">Uses hue and light–dark relationships</text></g>
+  </g>
+</svg>
